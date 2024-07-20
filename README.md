@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Create a new project
+
+`npx create-expo-app@latest`
+
 ## Get started
 
 1. Install dependencies
@@ -9,7 +13,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
-
 2. Start the app
 
    ```bash
